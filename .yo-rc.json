@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "PruebaJh",
+    "packageName": "com.borda.prueba",
+    "packageFolder": "com/borda/prueba",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "ODAxMzIxMTllNjI3MGE0MzA2ZWI5YTYzNDg3MzdmNmUyZDBmNTFkYTIzODMxYThjYjVhYjNhMTgwM2M5ZWQ0MjU3Mzk5NmVmN2M0OTY4YjAxZTlhNWQ0OGUxN2E3YzJlYjdmYjIwYmFiODY2OTc1NjkzNTdlMGY4ZjA4MGM2MjA=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "erickbm6922",
+  "repository-name": "jh-prueba"
+}
